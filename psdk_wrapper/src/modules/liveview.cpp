@@ -110,7 +110,7 @@ LiveviewModule::init()
     RCLCPP_ERROR(get_logger(),
                  "Could not initialize liveview module. Error code: %ld",
                  return_code);
-    return false;
+    return true;
   }
   /* Start decoders*/
   stream_decoder_ = {
