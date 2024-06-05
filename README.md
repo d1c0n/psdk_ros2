@@ -4,6 +4,7 @@
 You can find all the wrapper's documentation at [https://umdlife.github.io/psdk_ros2](https://umdlife.github.io/psdk_ros2/documentation/Introduction.html).
 ## Features 
 
+
 The `psdk_ros2` wrapper currently supports the following features:
 
 1. **Starting and Initializing PSDK Applications**: `psdk_ros2` allows you to initiate and configure a PSDK application from within ROS 2.
